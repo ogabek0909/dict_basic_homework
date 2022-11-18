@@ -13,5 +13,5 @@ def oldest(people:dict):
             v1=v
             k1=k
     return k1
-print(oldest({"Javohir": 22, "Sharof": 23, "Tolib": 34, "Rustam": 56}))
+print(oldest({"Javohir": 22, "Sharof": 23, "Tolib": 34, "Rustam": 16}))
     
